@@ -5,7 +5,7 @@ This online web store was created with the use of the Django web framework for a
 
 ### Prerequisites
 
-**Libraries needed:
+**Libraries needed:**
 
 -pip install django
 
