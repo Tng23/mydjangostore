@@ -1,5 +1,5 @@
 # My First Django Store
-A web store created with Python and Django
+A web store created with Python and Django.
 
 This online web store was created with the use of the Django web framework for a final project.
 
