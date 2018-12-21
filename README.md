@@ -40,6 +40,9 @@ This online web store was created with the use of the Django web framework for a
 **Confirmation Email**
 ![image](https://user-images.githubusercontent.com/42853509/50194361-16dd5c80-0300-11e9-9249-b526fd561868.png)
 
+**Payments Sent To Stripe**
+![image](https://user-images.githubusercontent.com/42853509/50319135-57b5ac80-048b-11e9-8d23-f158462e7193.JPG)
+
 **Order Details**
 ![image](https://user-images.githubusercontent.com/42853509/50194416-66bc2380-0300-11e9-95d3-db7b2b3bbf1c.png)
 
